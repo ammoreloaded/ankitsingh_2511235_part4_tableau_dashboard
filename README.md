@@ -32,7 +32,6 @@ The retail leadership team needs an executive dashboard to monitor sales perform
 | Total Records | 5,000+ orders |
 | Total Columns | 20 fields |
 | Time Period | 2024-2025 |
-| File Size | ~3 MB |
 
 ### Key Fields
 | Field | Description | Data Type |
